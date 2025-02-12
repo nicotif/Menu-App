@@ -1,0 +1,9 @@
+.menu {
+    margin-bottom: 2rem;
+  }
+  
+  .menuItems {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
