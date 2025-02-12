@@ -1,5 +1,5 @@
 import React from "react"
-import "./MenuItem.css" // optional if you want local CSS
+import "./MenuItem.css" 
 
 const MenuItem = ({ itemId, itemPrice, itemName, itemDescription }) => {
   return (
